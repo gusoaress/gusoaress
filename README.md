@@ -1,6 +1,8 @@
+Hello, friend!
+
 Sou aluno do terceiro período de ciência e tecnologia na UFABC. Desde que entrei na faculdade tenho me apaixonado por tecnologia e programação e me dediquei a aprender sobre isso. 
 
-Até o momento aprendi sobre:
+Até o momento tenho aprendido:
 
 👨🏾‍💻 PYTHON 
 
@@ -22,6 +24,5 @@ Durante o estudo da linguagem aprendi:
 👨🏾‍💻 SQL - Tenho aprendido a sintaxe e exercitando através do Hacker Hank
  🔎Big Query
  🐬MySql
- ⚛️ SQLAlchemy
 
-Uma coisa que você tem que saber sobre mim é que conhecimento é umas das coisas que eu mais valorizo na minha vida e me contratar é contratar alguém comprometido com o aprendizado e que dará tudo de si pra atender as demandas do estágio e absorver tudo o que a empresa tem a oferecer. LGBTQIA+ | 🏳️‍🌈 ✊🏾
+. LGBTQIA+ | 🏳️‍🌈 ✊🏾
