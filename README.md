@@ -1,6 +1,6 @@
 ### Hello, friend!
 
-Sou aluno do terceiro período de ciência e tecnologia na UFABC. Sempre fui apaixonado por tecnologia e wuanto mais estudo programação mais me sinto confortavel com minha escolha de carreira. 
+Sou aluno do terceiro período de ciência e tecnologia na UFABC. Sempre fui apaixonado por tecnologia e quanto mais estudo programação mais me sinto confortavel com minha escolha de carreira. 
 
 ## Estou Aprendendo:
 
@@ -9,7 +9,7 @@ Sou aluno do terceiro período de ciência e tecnologia na UFABC. Sempre fui apa
           
  ### E tecnologias como:
  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="80" height="80" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="80" height="80" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="80" height="80" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="80" height="80" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="80" height="80" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="80" height="80" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/>
           
           
           
