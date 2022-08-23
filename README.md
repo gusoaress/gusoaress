@@ -24,5 +24,10 @@ Durante o estudo da linguagem aprendi:
 👨🏾‍💻 SQL - Tenho aprendido a sintaxe e exercitando através do Hacker Hank
  🔎Big Query
  🐬MySql
+ 
+ Atualmente estou em busca de um estágio para iniciar minha carreira em tecnologia.
+ 
+ 📧 gusoare_s@outlook.com        📱 (11) 98640-6734
+ 
 
 . LGBTQIA+ | 🏳️‍🌈 ✊🏾
