@@ -1,4 +1,4 @@
-### Hello, friend!
+# Hello, friend!
 
 Sou aluno do terceiro período de ciência e tecnologia na UFABC. Sempre fui apaixonado por tecnologia e quanto mais estudo programação mais me sinto confortavel com minha escolha de carreira. 
 
