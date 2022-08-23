@@ -1,12 +1,18 @@
 ### Hello, friend!
 
-Sou aluno do terceiro período de ciência e tecnologia na UFABC. Desde que entrei na faculdade tenho me apaixonado por tecnologia e programação e me dediquei a aprender sobre isso. 
+Sou aluno do terceiro período de ciência e tecnologia na UFABC. Sempre fui apaixonado por tecnologia e wuanto mais estudo programação mais me sinto confortavel com minha escolha de carreira. 
 
-### Estou Aprendendo
+### Estou Aprendendo:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
           
-                  
+          
+ ## E tecnologias como:
+ 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg"width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg"width="40" height="40" />
+           
+ 
+ 
 
  
  Atualmente estou em busca de um estágio para iniciar minha carreira em tecnologia.
