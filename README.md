@@ -36,11 +36,7 @@ Sou aluno do terceiro período de ciência e tecnologia na UFABC. Sempre fui apa
 <a href="https://instagram.com/gusoare.s" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 </div>
 
-<div>
-<a href="https://github.com/gusoaress">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?gusoaress&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?gusoaress&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
  
+ ![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 
 . LGBTQIA+ | 🏳️‍🌈 ✊🏾
