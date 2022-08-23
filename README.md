@@ -30,10 +30,10 @@ Sou aluno do terceiro período de ciência e tecnologia na UFABC. Sempre fui apa
  
 
  
- Atualmente estou em busca de um estágio para iniciar minha carreira em tecnologia.
+ Atualmente estou em busca de um estágio para iniciar minha carreira em tecnologia. Tenho buscado um estágio porque acredito que essa modalidade vai me ajudar a obter dois objetivos a curto prazo, que é dar um start na minha carreira na tecnologia e colocar em prática tudo o que tenho aprendido na universidade e em cursos paralelos a ela. 
  
  
-## Redes Sociais 
+## Minhas Redes Sociais  
  <div>
 <a href = "mailto:gusoare_s@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui](https://www.linkedin.com/in/gustavo-soares-aa00751a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
