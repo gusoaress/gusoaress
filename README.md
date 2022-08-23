@@ -37,6 +37,6 @@ Sou aluno do terceiro período de ciência e tecnologia na UFABC. Sempre fui apa
 </div>
 
  
- ![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/gusoaress/gusoaress/blob/output/github-contribution-grid-snake.svg)
 
 . LGBTQIA+ | 🏳️‍🌈 ✊🏾
