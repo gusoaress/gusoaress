@@ -9,9 +9,12 @@ Sou aluno do terceiro período de ciência e tecnologia na UFABC. Sempre fui apa
           
  ## E tecnologias como:
  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="40" height="40" /> <i class="devicon-flask-original-wordmark"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="80" height="80" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="80" height="80" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="80" height="80" />
           
-           
+          
+### Tambem conheço um pouco de:
+
+
  
  
 
