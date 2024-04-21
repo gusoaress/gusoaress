@@ -1,43 +1,20 @@
-# Hello, friend!
+<h1 align="center">Hello, Friend 👋, I'm Gustavo</h1>
+<h3 align="center">I'm a student of Science and Technology at UFABC (Brazilian Federal University) and a Data Engineering intern</h3>
 
-Sou aluno do terceiro período de ciência e tecnologia na UFABC. Sempre fui apaixonado por tecnologia e quanto mais estudo programação mais me sinto confortavel com minha escolha de carreira. 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gusoaress&label=Profile%20views&color=0e75b6&style=flat" alt="gusoaress" /> </p>
 
-## Estou Aprendendo linguagens como: 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-          
-          
- #### bem como algumas de suas tecnologias:
- 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="80" height="80" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="80" height="80" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="80" height="80" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/>
-          
-          
-          
-#### E obtive conhecimento básico em algumas ferramentas como:
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>  
-
-#### Além disso conheço bem algumas ferramentas gráficas:
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" height="40"/>
-          
-          
-          
-          
+I'm a third-year student in Science and Technology at UFABC, concurrently pursuing my second undergraduate degree in Information Engineering. Technology has always been my passion, and the more I study programming, the more confident I feel about my career choice. Currently, I'm an engineering intern at the largest bank in Latin America, where I work on platform modernization. In this environment, our entire data platform is being developed on AWS, providing me with hands-on experience in using S3, SG, IAM roles, Glue, Athena, Lambdas, among others. Additionally, I'm well-versed in database management systems like Teradata. When it comes to programming languages, I have a strong theoretical and practical understanding of Python, SQL, and Terraform (IaC). For more information, feel free to reach out.
+- 📫 How to reach me **gusoare_s@outlook.com**
 
 
- 
- 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/gustavo-soares-aa00751a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gustavo-soares-aa00751a3" height="30" width="40" /></a>
+</p>
 
- 
- Atualmente estou em busca de um estágio para iniciar minha carreira em tecnologia. Tenho buscado um estágio porque acredito que essa modalidade vai me ajudar a obter dois objetivos a curto prazo, que é dar um start na minha carreira na tecnologia e colocar em prática tudo o que tenho aprendido na universidade e em cursos paralelos a ela. 
- 
- 
-## Minhas Redes Sociais  
- <div>
-<a href = "mailto:gusoare_s@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui](https://www.linkedin.com/in/gustavo-soares-aa00751a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-<a href="https://instagram.com/gusoare.s" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-. LGBTQIA+ | 🏳️‍🌈 ✊🏾
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gusoaress&show_icons=true&locale=en&layout=compact" alt="gusoaress" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gusoaress&" alt="gusoaress" /></p>
